@@ -1,0 +1,4 @@
+jousi aanet/jousi.wav
+hyppy aanet/hyppy.wav
+kolikko aanet/kolikko.wav
+uinti aanet/uinti.wav

@@ -1,0 +1,6 @@
+animaatiot kuvat/animations.bmp
+kuvakkeet kuvat/icons.bmp
+boss kuvat/boss.bmp
+boss2 kuvat/boss2.bmp
+boss3 kuvat/boss3.bmp
+boss4 kuvat/boss4.bmp

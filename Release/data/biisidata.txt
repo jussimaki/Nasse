@@ -1,0 +1,10 @@
+valikkobiisi biisit/nasse.it
+karttabiisi biisit/kartta.it
+perusbiisi biisit/perus.it
+luolabiisi biisit/luola.it
+rantabiisi biisit/ranta.it
+lumibiisi biisit/talvi.it
+linnabiisi biisit/linna.it
+tasolapibiisi biisit/tasolapi.it
+kuolemabiisi biisit/kuolema.it
+bossibiisi biisit/pomo.it

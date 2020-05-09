@@ -1,0 +1,606 @@
+45
+
+KiinteaPalkki
+1
+1
+1
+-1
+0
+0 0 0 0
+kuvakkeet 96 0
+6
+x_tilet luku 2 80 2
+y_tilet luku 2 80 2
+vaaka/pysty luku 0 1 0
+sade luku 1 40 1
+jakso luku 1 20 1
+vaihe luku 0 35 0
+1 animaatiot
+0
+
+
+Lentoaija
+2
+1
+1
+0
+1
+30 71 14 0
+kuvakkeet 224 0
+4
+vaaka/pysty luku 0 1 0
+sade luku 1 20 1
+jakso luku 1 20 1
+vaihe luku 0 35 0
+0
+1 lentoaija_anim
+
+
+Kolikko
+2
+0
+2
+-1
+0
+32 32 0 0
+kuvakkeet 128 0
+0
+0
+1 kolikko_anim
+
+Jamppa
+0
+0
+1
+0
+1
+26 33 0 0
+kuvakkeet 32 0
+0
+0
+2 jamppa_kavely_vasen jamppa_kavely_oikea
+
+
+Palkki
+3
+1
+1
+-1
+0
+128 20 0 0
+kuvakkeet 64 0
+4
+vaaka/pysty luku 0 1 0
+sade luku 1 20 1
+jakso luku 1 20 1
+vaihe luku 0 35 0
+0
+1 palkki_anim
+
+Matkapalkki
+3
+1
+1
+-1
+0
+128 20 0
+kuvakkeet 64 0
+2
+vauhti luku 1 10 1
+koordinaatit lista 2
+	x_matka luku -64 64 0
+	y_matka luku -64 64 0
+0
+1 palkki_anim
+
+Pyorivapalkki
+3
+1
+1
+-1
+0
+128 20 0 0
+kuvakkeet 64 0
+4
+myota/vasta luku 0 1 0
+sade luku 1 20 1
+jakso luku 1 20 1
+vaihe luku 0 35 0
+1 animaatiot
+1 palkki_anim
+
+
+Aija
+0
+0
+1
+0
+1
+33 63 0 0
+kuvakkeet 0 0
+0
+0
+2 aija_kavely_vasen aija_kavely_oikea
+
+
+Maali
+2
+0
+1
+-1
+0
+23 48 0 0
+kuvakkeet 160 0
+2
+suunta luku 0 1 0
+numero luku 0 100 0
+0
+1 maali_anim
+
+Ovi
+2
+0
+0
+-1
+0
+32 64 0 0
+kuvakkeet 192 0
+3
+sektori luku 0 100 0
+x_koord luku 0 1000 0
+y_koord luku 0 1000 0
+0
+1 ovi_anim
+
+
+Pomppija
+0
+0
+1
+0
+1
+26 29 0 0
+kuvakkeet 256 0
+0
+0
+1 pomppija_anim
+
+Piikkityyppi
+0
+0
+1
+1
+1
+26 25 0 0
+kuvakkeet 0 32
+0
+0
+2 piikkityyppi_anim_vasen piikkityyppi_anim_oikea
+
+Amppari
+2
+0
+1
+0
+1
+45 38 0 0
+kuvakkeet 32 32
+0
+0
+2 amppari_anim_vasen amppari_anim_oikea
+
+
+Sylkija
+0
+0
+1
+0
+1
+31 32 0 0
+kuvakkeet 64 32
+0
+0
+4 s_anim_vasen s_anim_oikea s_anim_hyppy_vasen s_anim_hyppy_oikea
+
+Sydan
+2
+0
+1
+-1
+0
+19 17 0 0
+kuvakkeet 96 32
+0
+0
+1 sydan_anim
+
+Piikkipallo
+2
+1
+1
+1
+0
+50 50 0 0
+kuvakkeet 128 32
+4
+myota/vasta luku 0 1 0
+sade luku 1 20 1
+jakso luku 1 20 1
+vaihe luku 0 35 0
+1 animaatiot
+1 piikkipallo_anim
+
+Matkaaja
+2
+1
+1
+1
+0
+32 32 0 0
+kuvakkeet 160 32
+2
+vauhti luku 1 10 1
+koordinaatit lista 2
+	x_matka luku -64 64 0
+	y_matka luku -64 64 0
+0
+1 matkaaja_anim
+
+Pomppivapiikkipallo
+0
+0
+1
+1
+0
+50 50 0 0
+kuvakkeet 192 32
+0
+0
+1 piikkipallo_anim
+
+Seilaavapiikkipallo
+2
+1
+1
+1
+0
+50 50 0 0
+kuvakkeet 224 32
+4
+vaaka/pysty luku 0 1 0
+sade luku 1 20 1
+jakso luku 1 20 1
+vaihe luku 0 35 0
+0
+1 piikkipallo_anim
+
+Bossi1
+0
+0
+1
+0
+1
+33 76 5 8
+kuvakkeet 256 32
+0
+0
+2 bossi_vasen_anim bossi_oikea_anim
+
+
+Bossi2
+0
+0
+1
+0
+1
+43 80 0 0
+kuvakkeet 64 128
+0
+0
+2 bossi2_vasen_anim bossi2_oikea_anim
+
+Bossi3
+0
+0
+1
+0
+1
+43 80 0 0
+kuvakkeet 96 128
+0
+0
+2 bossi3_vasen_anim bossi3_oikea_anim
+
+Bossi4
+0
+0
+1
+0
+1
+54 100 0 0
+kuvakkeet 128 128
+0
+0
+2 bossi4_vasen_anim bossi4_oikea_anim
+
+Kala
+0
+0
+1
+1
+1
+26 17 0 0
+kuvakkeet 0 64
+0
+0
+2 kala_vasen_anim kala_oikea_anim
+
+Lokki
+2
+0
+1
+0
+1
+30 33 0 0
+kuvakkeet 32 64
+0
+0
+2 lokki_vasen_anim lokki_oikea_anim
+
+Paikallaanhyppija
+0
+1
+1
+0
+1
+32 32 0 0
+kuvakkeet 64 64
+2
+jakso luku 1 20 1
+vaihe luku 0 199 0
+0
+2 paikallaanhyppija_vasen_anim paikallaanhyppija_oikea_anim
+
+Seuraaja
+0
+0
+1
+0
+1
+32 32 0 0
+kuvakkeet 96 64
+0
+0
+2 seuraaja_vasen_anim seuraaja_oikea_anim
+
+Seuraavahyppija
+0
+0
+1
+0
+1
+32 32 0 0
+kuvakkeet 128 64
+0
+0
+2 seuraavahyppija_vasen_anim seuraavahyppija_oikea_anim
+
+Kala2
+0
+0
+1
+1
+1
+33 28 0 0
+kuvakkeet 160 64
+0
+0
+2 kala2_vasen_anim kala2_oikea_anim
+
+Meritahti
+2
+1
+1
+1
+1
+32 32 0 0
+kuvakkeet 192 64
+4
+vaaka/pysty luku 0 1 0
+sade luku 1 20 1
+jakso luku 1 20 1
+vaihe luku 0 35 0
+0
+1 meritahti_anim
+
+Lumipallonheittaja
+0
+0
+1
+0
+1
+31 59 0 0
+kuvakkeet 224 64
+0
+0
+4 lumipallonheittaja_vasen_anim lumipallonheittaja_oikea_anim lumipallonheittaja_vasen_heitto_anim lumipallonheittaja_oikea_heitto_anim
+
+Lumipallonheittaja2
+0
+0
+1
+0
+1
+24 41 0 0
+kuvakkeet 256 64
+0
+0
+1 lumipallonheittaja2_anim
+
+Laatikko
+0
+0
+1
+-1
+0
+32 32 0 0
+kuvakkeet 0 96
+0
+0
+1 laatikko_anim
+
+Tulipallotyyppi
+0
+0
+1
+0
+1
+40 62 0 0
+kuvakkeet 32 96
+0 
+0
+2 tulipallotyyppi_anim_vasen tulipallotyyppi_anim_oikea
+
+Avain
+0
+0
+1
+-1
+0
+27 11 0 0
+kuvakkeet 64 96
+0
+0
+1 avain_anim
+
+Ovi2
+2
+0
+0
+-1
+0
+32 64 0 0
+kuvakkeet 192 0
+4
+sektori luku 0 100 0
+x_koord luku 0 1000 0
+y_koord luku 0 1000 0
+avain linkki 1 Avain
+0
+1 ovi2_anim
+
+Jeppe
+0
+0
+1
+0
+1
+24 27 0 0
+kuvakkeet 96 96
+0
+0
+2 jeppe_anim_vasen jeppe_anim_oikea
+
+Siivet
+2
+0
+1
+-1
+0
+32 32 0 0
+kuvakkeet 128 96
+0
+0
+1 siivet_anim
+
+Liekinheitin
+0
+1
+1
+-1
+0
+32 32 0 0
+kuvakkeet 160 96
+5
+suunta luku 0 3 0
+jakso luku 1 20 1
+vaihe luku 0 200 0
+pituus luku 1 10 1
+voima luku 1 30 1
+0
+4 lh_oikea lh_ylos lh_vasen lh_alas
+
+Tippukivi
+0
+0
+1
+-1
+0
+16 16 0 0
+kuvakkeet 192 96
+0
+0
+2 tippukivi tippukivi_heiluu
+
+
+Tippupalkki
+3
+0
+1
+-1
+0
+32 32 0 0
+kuvakkeet 224 96
+0
+0
+2 tippupalkki tippupalkki_heiluu
+
+
+Jaapuikko
+0
+0
+1
+-1
+0
+12 28 0 0
+kuvakkeet 256 96
+0
+0
+2 jaapuikko jaapuikko_heiluu
+
+Jousi
+3
+0
+1
+-1
+0
+32 32 0 0
+kuvakkeet 0 128
+0
+0
+1 jousi_anim
+
+Checkpoint
+2
+0
+1
+-1
+0
+23 48 0 0
+kuvakkeet 160 0
+1
+numero luku 0 9 0
+0
+2 checkpoint_anim maali_anim
+
+Tykki
+2
+0
+1
+-1
+0
+32 32 0 0
+kuvakkeet 32 128
+0
+0
+1 tykki_anim
